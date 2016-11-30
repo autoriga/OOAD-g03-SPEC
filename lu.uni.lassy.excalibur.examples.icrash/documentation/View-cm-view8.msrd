@@ -1,0 +1,13 @@
+/*
+@author sergeyglazkov
+@date Fri Nov 25 17:56:08 MSK 2016
+*/
+
+
+@@view cm-view8
+@model Concept
+@level Local
+@sublevel Primary Datatype
+@number 8
+@description ""
+@caption ""

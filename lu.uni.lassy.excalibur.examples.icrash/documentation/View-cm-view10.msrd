@@ -1,0 +1,13 @@
+/*
+@author sergeyglazkov
+@date Fri Nov 25 17:58:56 MSK 2016
+*/
+
+
+@@view cm-view10
+@model Concept
+@level Local
+@sublevel Primary Datatype
+@number 10
+@description ""
+@caption ""

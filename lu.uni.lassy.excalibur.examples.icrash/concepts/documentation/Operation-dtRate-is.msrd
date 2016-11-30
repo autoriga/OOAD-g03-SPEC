@@ -1,0 +1,15 @@
+/*
+@author sergeyglazkov
+@date Fri Nov 25 17:49:56 MSK 2016
+*/
+
+
+@@Operation
+icrash.concepts.primarytypes.datatypes.dtRate.is
+@description "it is for the coordinator rating points"
+//postFunctional descriptions
+@postF 
+" "
+@endPostF
+//example
+@example" "

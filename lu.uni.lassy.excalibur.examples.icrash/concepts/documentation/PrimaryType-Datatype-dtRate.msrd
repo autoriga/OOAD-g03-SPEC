@@ -1,0 +1,13 @@
+/*
+@author sergeyglazkov
+@date Fri Nov 18 21:27:05 MSK 2016
+*/
+
+
+@@Primary Type Datatype icrash.concepts.primarytypes.datatypes.dtRate
+@description "The number that goes from 1 to 6. It is determined how many crises
+coordinator can handle in one time"
+@operation
+icrash.concepts.primarytypes.datatypes.dtRate.is
+"used to determine which strings are considered as valid dtRate."
+@endOperations
